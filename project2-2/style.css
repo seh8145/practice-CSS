@@ -23,6 +23,7 @@ h1::before {
 
 .challenge2 {
   background-color: yellow;
+  padding-left: 10%;
 }
 
 h1:first-child {
